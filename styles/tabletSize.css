@@ -38,7 +38,7 @@
         font-size: medium;
     }
     .products{
-        height: 90vh;
+        height: 110vh;
         display: flex;
         flex-direction: column;
         justify-content: space-around;
