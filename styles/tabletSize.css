@@ -37,6 +37,9 @@
         text-decoration: none;
         font-size: medium;
     }
+    .links a:hover {
+        color: white;
+    }
     .products{
         height: 110vh;
         display: flex;
